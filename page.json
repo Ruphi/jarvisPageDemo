@@ -1,1 +1,1 @@
-{"type":"page","title":"Hello world","body":[{"type":"tpl","tpl":"","inline":false}],"id":"u:8c5cfd3fa65e"}
+{"type":"page","title":"Hello world","body":[{"type":"tpl","tpl":"","inline":false,"id":"u:1dbc5477298f"},{"type":"crud","syncLocation":false,"api":{"method":"get","url":""},"columns":[{"name":"id","label":"ID","type":"text"},{"name":"engine","label":"渲染引擎","type":"text"},{"type":"text"}],"bulkActions":[],"itemActions":[],"id":"u:bb876de1e11c"}],"id":"u:8c5cfd3fa65e"}
