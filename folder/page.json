@@ -1,1 +1,1 @@
-{"type":"page","title":"Hello world","body":[{"type":"tpl","tpl":"","inline":false,"id":"u:53a4827a8cb1"}],"id":"u:6f88192d0400"}
+{"type":"page","title":"Hello world","body":[{"type":"tpl","tpl":"","inline":false,"id":"u:53a4827a8cb1"},{"type":"each","name":"arr","items":{"type":"tpl","tpl":"<%= data.index + 1 %>. 内容：<%= data.item %>","inline":false},"id":"u:44aa27026c40"}],"id":"u:6f88192d0400"}
